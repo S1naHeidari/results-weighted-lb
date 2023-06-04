@@ -1,0 +1,195 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685815034806,1007,HTTP Request,200,OK,Thread-Group-default-100 1-2,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,1004,0,1
+1685815034789,1057,HTTP Request,200,OK,Thread-Group-default-100 1-1,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,1057,0,0
+1685815034842,1204,HTTP Request,200,OK,Thread-Group-default-100 1-4,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,1204,0,0
+1685815034908,1149,HTTP Request,200,OK,Thread-Group-default-100 1-8,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,1148,0,0
+1685815035214,858,HTTP Request,200,OK,Thread-Group-default-100 1-26,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,857,0,1
+1685815034892,1213,HTTP Request,200,OK,Thread-Group-default-100 1-7,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,1213,0,1
+1685815035117,1010,HTTP Request,200,OK,Thread-Group-default-100 1-20,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,1010,0,1
+1685815034874,1773,HTTP Request,200,OK,Thread-Group-default-100 1-6,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,1772,0,0
+1685815035402,2188,HTTP Request,200,OK,Thread-Group-default-100 1-37,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2187,0,1
+1685815035010,2583,HTTP Request,200,OK,Thread-Group-default-100 1-14,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2583,0,0
+1685815034830,2771,HTTP Request,200,OK,Thread-Group-default-100 1-3,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2771,0,1
+1685815034929,2673,HTTP Request,200,OK,Thread-Group-default-100 1-9,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,2672,0,1
+1685815035045,2808,HTTP Request,200,OK,Thread-Group-default-100 1-16,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2808,0,0
+1685815035037,3047,HTTP Request,200,OK,Thread-Group-default-100 1-15,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3047,0,1
+1685815035065,3087,HTTP Request,200,OK,Thread-Group-default-100 1-17,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3087,0,1
+1685815035263,2890,HTTP Request,200,OK,Thread-Group-default-100 1-28,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2890,0,1
+1685815035089,3797,HTTP Request,200,OK,Thread-Group-default-100 1-18,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3797,0,1
+1685815035435,3501,HTTP Request,200,OK,Thread-Group-default-100 1-39,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3501,0,0
+1685815034860,4090,HTTP Request,200,OK,Thread-Group-default-100 1-5,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4090,0,1
+1685815035452,3504,HTTP Request,200,OK,Thread-Group-default-100 1-40,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3504,0,1
+1685815035367,3591,HTTP Request,200,OK,Thread-Group-default-100 1-35,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3590,0,1
+1685815035707,3264,HTTP Request,200,OK,Thread-Group-default-100 1-55,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3264,0,0
+1685815034997,3975,HTTP Request,200,OK,Thread-Group-default-100 1-13,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3975,0,0
+1685815035170,3909,HTTP Request,200,OK,Thread-Group-default-100 1-23,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3908,0,1
+1685815035520,3562,HTTP Request,200,OK,Thread-Group-default-100 1-44,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,3562,0,0
+1685815035096,3999,HTTP Request,200,OK,Thread-Group-default-100 1-19,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3999,0,1
+1685815035606,3532,HTTP Request,200,OK,Thread-Group-default-100 1-49,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3532,0,0
+1685815035302,4061,HTTP Request,200,OK,Thread-Group-default-100 1-31,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4060,0,0
+1685815035201,4177,HTTP Request,200,OK,Thread-Group-default-100 1-25,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4174,0,1
+1685815035846,3538,HTTP Request,200,OK,Thread-Group-default-100 1-1,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3537,0,1
+1685815034976,4413,HTTP Request,200,OK,Thread-Group-default-100 1-12,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4408,0,1
+1685815034946,4443,HTTP Request,200,OK,Thread-Group-default-100 1-10,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4441,0,0
+1685815035504,3886,HTTP Request,200,OK,Thread-Group-default-100 1-43,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3879,0,1
+1685815035329,4067,HTTP Request,200,OK,Thread-Group-default-100 1-32,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4058,0,0
+1685815035468,3928,HTTP Request,200,OK,Thread-Group-default-100 1-41,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3926,0,1
+1685815035428,3976,HTTP Request,200,OK,Thread-Group-default-100 1-38,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3975,0,4
+1685815035282,4122,HTTP Request,200,OK,Thread-Group-default-100 1-30,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4121,0,1
+1685815034960,4455,HTTP Request,200,OK,Thread-Group-default-100 1-11,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4454,0,1
+1685815035265,4160,HTTP Request,200,OK,Thread-Group-default-100 1-29,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4160,0,1
+1685815035622,3804,HTTP Request,200,OK,Thread-Group-default-100 1-50,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3804,0,1
+1685815035333,4101,HTTP Request,200,OK,Thread-Group-default-100 1-33,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4100,0,0
+1685815035590,3851,HTTP Request,200,OK,Thread-Group-default-100 1-47,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3851,0,0
+1685815035385,4057,HTTP Request,200,OK,Thread-Group-default-100 1-36,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4056,0,1
+1685815035725,3720,HTTP Request,200,OK,Thread-Group-default-100 1-56,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,3717,0,0
+1685815035242,4206,HTTP Request,200,OK,Thread-Group-default-100 1-27,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4205,0,1
+1685815035147,4337,HTTP Request,200,OK,Thread-Group-default-100 1-22,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4336,0,0
+1685815035360,4292,HTTP Request,200,OK,Thread-Group-default-100 1-34,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4289,0,0
+1685815035814,3849,HTTP Request,200,OK,Thread-Group-default-100 1-2,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3847,0,0
+1685815035640,4024,HTTP Request,200,OK,Thread-Group-default-100 1-51,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4024,0,1
+1685815035129,4535,HTTP Request,200,OK,Thread-Group-default-100 1-21,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4535,0,1
+1685815035486,4205,HTTP Request,200,OK,Thread-Group-default-100 1-42,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4205,0,1
+1685815035180,4522,HTTP Request,200,OK,Thread-Group-default-100 1-24,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4522,0,1
+1685815036057,3646,HTTP Request,200,OK,Thread-Group-default-100 1-8,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3636,0,0
+1685815036046,3658,HTTP Request,200,OK,Thread-Group-default-100 1-4,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,3658,0,0
+1685815035673,4043,HTTP Request,200,OK,Thread-Group-default-100 1-53,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4043,0,0
+1685815035589,4373,HTTP Request,200,OK,Thread-Group-default-100 1-48,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4372,0,0
+1685815035662,4497,HTTP Request,200,OK,Thread-Group-default-100 1-52,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4497,0,0
+1685815035554,4771,HTTP Request,200,OK,Thread-Group-default-100 1-46,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4771,0,1
+1685815035748,4649,HTTP Request,200,OK,Thread-Group-default-100 1-57,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4649,0,1
+1685815035537,5383,HTTP Request,200,OK,Thread-Group-default-100 1-45,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,5382,0,1
+1685815035695,5702,HTTP Request,200,OK,Thread-Group-default-100 1-54,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5702,0,0
+1685815038886,2511,HTTP Request,200,OK,Thread-Group-default-100 1-18,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2510,0,1
+1685815036647,4770,HTTP Request,200,OK,Thread-Group-default-100 1-6,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,4770,0,0
+1685815036072,5380,HTTP Request,200,OK,Thread-Group-default-100 1-26,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5380,0,0
+1685815039434,2660,HTTP Request,200,OK,Thread-Group-default-100 1-33,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2583,0,0
+1685815039426,2997,HTTP Request,200,OK,Thread-Group-default-100 1-29,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,2997,0,0
+1685815035775,6658,HTTP Request,200,OK,Thread-Group-default-100 1-59,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,6658,0,1
+1685815035760,8368,HTTP Request,200,OK,Thread-Group-default-100 1-58,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,8368,0,1
+1685815038956,5231,HTTP Request,200,OK,Thread-Group-default-100 1-40,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,5231,0,1
+1685815035794,8430,HTTP Request,200,OK,Thread-Group-default-100 1-60,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,8430,0,1
+1685815038084,6165,HTTP Request,200,OK,Thread-Group-default-100 1-15,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,6165,0,1
+1685815039390,5365,HTTP Request,200,OK,Thread-Group-default-100 1-10,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,5365,0,0
+1685815039082,5683,HTTP Request,200,OK,Thread-Group-default-100 1-44,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5683,0,1
+1685815039363,5417,HTTP Request,200,OK,Thread-Group-default-100 1-31,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5417,0,0
+1685815038152,6639,HTTP Request,200,OK,Thread-Group-default-100 1-17,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,6639,0,0
+1685815038972,5843,HTTP Request,200,OK,Thread-Group-default-100 1-13,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,5840,0,1
+1685815039389,5428,HTTP Request,200,OK,Thread-Group-default-100 1-12,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5427,0,0
+1685815039138,5681,HTTP Request,200,OK,Thread-Group-default-100 1-49,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5680,0,1
+1685815038153,8364,HTTP Request,200,OK,Thread-Group-default-100 1-28,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,8364,0,1
+1685815039378,10491,HTTP Request,200,OK,Thread-Group-default-100 1-25,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,10490,0,1
+1685815036127,13742,HTTP Request,200,OK,Thread-Group-default-100 1-20,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13742,0,0
+1685815039441,10437,HTTP Request,200,OK,Thread-Group-default-100 1-47,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,10437,0,0
+1685815037593,12327,HTTP Request,200,OK,Thread-Group-default-100 1-14,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,12326,0,0
+1685815037853,12074,HTTP Request,200,OK,Thread-Group-default-100 1-16,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12073,0,1
+1685815040325,10040,HTTP Request,200,OK,Thread-Group-default-100 1-46,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,10040,0,1
+1685815039415,11327,HTTP Request,200,OK,Thread-Group-default-100 1-11,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11327,0,0
+1685815039691,11108,HTTP Request,200,OK,Thread-Group-default-100 1-42,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,11107,0,1
+1685815039962,11813,HTTP Request,200,OK,Thread-Group-default-100 1-48,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11813,0,0
+1685815040159,11616,HTTP Request,200,OK,Thread-Group-default-100 1-52,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11616,0,1
+1685815039484,12300,HTTP Request,200,OK,Thread-Group-default-100 1-22,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12300,0,0
+1685815039384,12400,HTTP Request,200,OK,Thread-Group-default-100 1-1,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12400,0,0
+1685815039663,12363,HTTP Request,200,OK,Thread-Group-default-100 1-2,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12363,0,0
+1685815039716,12315,HTTP Request,200,OK,Thread-Group-default-100 1-53,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12314,0,1
+1685815039079,12997,HTTP Request,200,OK,Thread-Group-default-100 1-23,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12997,0,1
+1685815036106,16262,HTTP Request,200,OK,Thread-Group-default-100 1-7,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,16262,0,0
+1685815039702,12668,HTTP Request,200,OK,Thread-Group-default-100 1-24,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12668,0,1
+1685815038936,13455,HTTP Request,200,OK,Thread-Group-default-100 1-39,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13453,0,1
+1685815044765,7629,HTTP Request,200,OK,Thread-Group-default-100 1-44,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,7626,0,1
+1685815038950,13445,HTTP Request,200,OK,Thread-Group-default-100 1-5,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13445,0,6
+1685815039664,12758,HTTP Request,200,OK,Thread-Group-default-100 1-21,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,12757,0,0
+1685815039396,13041,HTTP Request,200,OK,Thread-Group-default-100 1-32,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,13038,0,0
+1685815039445,12993,HTTP Request,200,OK,Thread-Group-default-100 1-56,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,12992,0,1029
+1685815039442,13033,HTTP Request,200,OK,Thread-Group-default-100 1-36,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13030,0,1032
+1685815041452,11269,HTTP Request,200,OK,Thread-Group-default-100 1-26,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11269,0,1
+1685815039448,13399,HTTP Request,200,OK,Thread-Group-default-100 1-27,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,13399,0,1026
+1685815039652,13197,HTTP Request,200,OK,Thread-Group-default-100 1-34,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13194,0,0
+1685815038972,13878,HTTP Request,200,OK,Thread-Group-default-100 1-55,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13878,0,0
+1685815039095,13764,HTTP Request,200,OK,Thread-Group-default-100 1-19,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13764,0,1
+1685815041397,11464,HTTP Request,200,OK,Thread-Group-default-100 1-18,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11464,0,1
+1685815039703,13168,HTTP Request,200,OK,Thread-Group-default-100 1-8,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13167,0,1
+1685815037601,15283,HTTP Request,200,OK,Thread-Group-default-100 1-3,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,15255,0,1
+1685815040398,12516,HTTP Request,200,OK,Thread-Group-default-100 1-57,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,12515,0,0
+1685815042433,10489,HTTP Request,200,OK,Thread-Group-default-100 1-59,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,10488,0,1
+1685815041397,11535,HTTP Request,200,OK,Thread-Group-default-100 1-54,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11535,0,1
+1685815037602,15347,HTTP Request,200,OK,Thread-Group-default-100 1-9,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,15331,0,0
+1685815039396,13556,HTTP Request,200,OK,Thread-Group-default-100 1-41,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,13553,0,0
+1685815041417,11537,HTTP Request,200,OK,Thread-Group-default-100 1-6,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11536,0,1
+1685815044187,8943,HTTP Request,200,OK,Thread-Group-default-100 1-40,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,8942,0,0
+1685815039664,13488,HTTP Request,200,OK,Thread-Group-default-100 1-51,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,13488,0,0
+1685815038958,14316,HTTP Request,200,OK,Thread-Group-default-100 1-35,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,14316,0,0
+1685815044817,9833,HTTP Request,200,OK,Thread-Group-default-100 1-12,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,9833,0,0
+1685815044128,11156,HTTP Request,200,OK,Thread-Group-default-100 1-58,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,11156,0,1
+1685815039426,15981,HTTP Request,200,OK,Thread-Group-default-100 1-50,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,15981,0,1014
+1685815044816,10833,HTTP Request,200,OK,Thread-Group-default-100 1-13,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,10832,0,0
+1685815039390,16616,HTTP Request,200,OK,Thread-Group-default-100 1-43,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,16615,0,0
+1685815039404,16607,HTTP Request,200,OK,Thread-Group-default-100 1-38,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,16607,0,1003
+1685815050742,5283,HTTP Request,200,OK,Thread-Group-default-100 1-11,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5283,0,0
+1685815050800,5232,HTTP Request,200,OK,Thread-Group-default-100 1-42,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,5232,0,0
+1685815051775,4290,HTTP Request,200,OK,Thread-Group-default-100 1-48,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4286,0,1
+1685815049869,6197,HTTP Request,200,OK,Thread-Group-default-100 1-25,text,true,,148,132,60,60,http://127.0.0.1:31113/fibo-default,6197,0,0
+1685815051776,4518,HTTP Request,200,OK,Thread-Group-default-100 1-52,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,4518,0,0
+1685815042094,14223,HTTP Request,200,OK,Thread-Group-default-100 1-33,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,14223,0,1
+1685815044781,11537,HTTP Request,200,OK,Thread-Group-default-100 1-31,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,11537,0,0
+1685815046517,10023,HTTP Request,200,OK,Thread-Group-default-100 1-28,text,true,,147,132,60,60,http://127.0.0.1:31113/fibo-default,10023,0,1
+1685815042423,14389,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-29,text,false,,2562,0,60,60,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815055650,1162,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-13,text,false,,2562,0,60,60,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052871,3942,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-8,text,false,,2562,0,59,59,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052077,4736,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-23,text,false,,2562,0,59,59,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815049878,6935,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-47,text,false,,2562,0,58,58,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815053274,3539,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-35,text,false,,2562,0,57,57,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052849,3964,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-34,text,false,,2562,0,56,56,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815050365,6448,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-46,text,false,,2562,0,56,56,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052914,3900,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-57,text,false,,2562,0,53,53,http://127.0.0.1:31113/fibo-default,0,0,1034
+1685815052949,3865,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-9,text,false,,2562,0,53,53,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056540,274,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-28,text,false,,2562,0,50,50,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052368,4445,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-7,text,false,,2562,0,50,50,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815037590,19224,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-37,text,false,,2562,0,50,50,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815049920,6894,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-14,text,false,,2562,0,47,47,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815056032,783,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-42,text,false,,2562,0,47,47,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815044224,12591,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-60,text,false,,2562,0,46,46,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052885,3930,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-3,text,false,,2562,0,46,46,http://127.0.0.1:31113/fibo-default,0,0,1026
+1685815052438,4378,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-56,text,false,,2562,0,44,44,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052027,4789,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-2,text,false,,2562,0,42,42,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815051784,5032,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-1,text,false,,2562,0,42,42,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815049869,6948,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-20,text,false,,2562,0,40,40,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815044791,12026,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-17,text,false,,2562,0,40,40,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052932,3886,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-54,text,false,,2562,0,38,38,http://127.0.0.1:31113/fibo-default,0,0,1016
+1685815039404,17414,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-30,text,false,,2562,0,37,37,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815051784,5035,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-22,text,false,,2562,0,36,36,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056319,500,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-31,text,false,,2562,0,35,35,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815040920,15900,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-45,text,false,,2562,0,34,34,http://127.0.0.1:31113/fibo-default,0,0,2
+1685815052722,4099,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-26,text,false,,2562,0,33,33,http://127.0.0.1:31113/fibo-default,0,0,51
+1685815039704,17118,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-4,text,false,,2562,0,32,32,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052371,4451,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-24,text,false,,2562,0,32,32,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815049927,6894,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-16,text,false,,2562,0,30,30,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815053130,3692,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-40,text,false,,2562,0,29,29,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815044819,12004,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-49,text,false,,2562,0,28,28,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052953,3870,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-41,text,false,,2562,0,27,27,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052391,4432,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-39,text,false,,2562,0,26,26,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052847,3976,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-27,text,false,,2562,0,25,25,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815056012,812,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-38,text,false,,2562,0,25,25,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052861,3963,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-18,text,false,,2562,0,25,25,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052860,3964,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-19,text,false,,2562,0,25,25,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052395,4429,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-44,text,false,,2562,0,22,22,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052031,4793,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-53,text,false,,2562,0,21,21,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052922,3903,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-59,text,false,,2562,0,19,19,http://127.0.0.1:31113/fibo-default,0,0,1091
+1685815044250,12575,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-15,text,false,,2562,0,19,19,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815044756,12070,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-10,text,false,,2562,0,18,18,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815054650,2175,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-12,text,false,,2562,0,19,19,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052850,3976,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-55,text,false,,2562,0,18,18,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056026,800,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-11,text,false,,2562,0,15,15,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815053152,3674,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-51,text,false,,2562,0,13,13,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056318,508,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-33,text,false,,2562,0,13,13,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815055408,1419,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-50,text,false,,2562,0,12,12,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052475,4352,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-36,text,false,,2562,0,10,10,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815056066,761,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-48,text,false,,2562,0,9,9,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052437,4390,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-32,text,false,,2562,0,9,9,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815055284,1543,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-58,text,false,,2562,0,8,8,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052395,4433,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-5,text,false,,2562,0,7,7,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815052956,3872,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-6,text,false,,2562,0,5,5,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056066,763,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-25,text,false,,2562,0,4,4,http://127.0.0.1:31113/fibo-default,0,0,1
+1685815052422,4407,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-21,text,false,,2562,0,4,4,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056006,824,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-43,text,false,,2562,0,2,2,http://127.0.0.1:31113/fibo-default,0,0,0
+1685815056295,536,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread-Group-default-100 1-52,text,false,,2562,0,1,1,http://127.0.0.1:31113/fibo-default,0,0,1
